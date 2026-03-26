@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Shiva Kashyap  
 
-<!--
-**98shiva/98shiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Data Analyst | Aspiring Business Analyst  
+📍 Meerut, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 2+ years of experience in data analysis  
+- Skilled in SQL, Python, Excel & Power BI  
+- Strong in KPI tracking, dashboards & data validation  
+- Focused on solving business problems using data  
+
+---
+
+## 🛠️ Skills  
+**SQL | Python | Power BI | Excel | Data Analysis | KPI Reporting**
+
+---
+
+## 📂 Projects  
+- ⚡ EV Charging Analytics – 100K+ records, dashboard & insights  
+- 🏨 Revenue Analysis – Improved pricing & reduced cancellations  
+- 🚗 Car Price Prediction – ML model (R² = 0.66)  
+
+---
+
+## 💼 Experience  
+- Built dashboards & analyzed large datasets  
+- Improved business metrics like conversion & efficiency  
+- Worked with stakeholders for data-driven decisions  
+
+---
+
+## 📫 Connect  
+📧 Shivakashyap1999@gmail.com  
+🔗 GitHub: https://github.com/98shiva  
+
+---
+
+⭐ Turning data into actionable insights
