@@ -19,7 +19,7 @@
 ---
 
 ## 📂 Projects  
-- ⚡ EV Charging Analytics – 100K+ records, dashboard & insights  
+- ⚡ EV Charging Analytics –  100K+ records, dashboard & insights  
 - 🏨 Revenue Analysis – Improved pricing & reduced cancellations  
 - 🚗 Car Price Prediction – ML model (R² = 0.66)  
 
